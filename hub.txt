@@ -1,0 +1,6 @@
+hub scMappability
+shortLabel Mappability for S. cerevisiae S288c
+longLabel  Mappability tracks for Saccharomyces cerevisiae S288c R64-1-1 calculated with GEM mappability tool.
+genomesFile genomes.txt
+email bojan.zunar@gmail.com
+descriptionUrl https://github.com/bzunar/scMappability
